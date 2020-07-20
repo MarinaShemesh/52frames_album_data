@@ -27,42 +27,6 @@ console.log(data);
 
 
 //+++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-
-let temp_1 = [
-    "\n                                        1587 photos\n                                    ",
-    "\n                                        1670 photos\n                                    ",
-    "\n                                        1600 photos\n                                    ",
-    "\n                                        1656 photos\n                                    ",
-    "\n                                        1733 photos\n                                    ",
-    "\n                                        1675 photos\n                                    ",
-    "\n                                        1909 photos\n                                    ",
-    "\n                                        1833 photos\n                                    ",
-    "\n                                        1785 photos\n                                    ",
-    "\n                                        1996 photos\n                                    ",
-    "\n                                        1983 photos\n                                    ",
-    "\n                                        2066 photos\n                                    ",
-    "\n                                        1975 photos\n                                    ",
-    "\n                                        2034 photos\n                                    ",
-    "\n                                        2098 photos\n                                    ",
-    "\n                                        1987 photos\n                                    ",
-    "\n                                        2055 photos\n                                    ",
-    "\n                                        2092 photos\n                                    ",
-    "\n                                        2251 photos\n                                    ",
-    "\n                                        2299 photos\n                                    ",
-    "\n                                        2344 photos\n                                    ",
-    "\n                                        2401 photos\n                                    ",
-    "\n                                        2496 photos\n                                    ",
-    "\n                                        2509 photos\n                                    ",
-    "\n                                        2612 photos\n                                    ",
-    "\n                                        2534 photos\n                                    ",
-    "\n                                        2665 photos\n                                    ",
-    "\n                                        2515 photos\n                                    "
-];
-
-
-
-
 let useArray = function () {
     let cleanArray = function () {
         let newString = [];
@@ -82,5 +46,3 @@ let useArray = function () {
 }
 
 useArray()
-
-
